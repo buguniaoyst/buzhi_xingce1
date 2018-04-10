@@ -24,7 +24,7 @@
   * [Q](q.md)
   * [R](r.md)
   * [S](s.md)
-  * T
+  * [T](t.md)
   * U
   * V
   * W
