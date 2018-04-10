@@ -14,8 +14,7 @@
   * [F](f.md)
   * [G](g.md)
   * [H](h.md)
-  * I
-  * J
+  * [J](j.md)
   * K
   * L
   * M
