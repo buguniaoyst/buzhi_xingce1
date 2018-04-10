@@ -22,7 +22,7 @@
   * [O](o.md)
   * [P](p.md)
   * [Q](q.md)
-  * R
+  * [R](r.md)
   * S
   * T
   * U
