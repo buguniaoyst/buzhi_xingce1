@@ -23,7 +23,7 @@
   * [P](p.md)
   * [Q](q.md)
   * [R](r.md)
-  * S
+  * [S](s.md)
   * T
   * U
   * V
