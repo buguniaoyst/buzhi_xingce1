@@ -12,7 +12,7 @@
   * [D](d.md)
   * [E](e.md)
   * [F](f.md)
-  * G
+  * [G](g.md)
   * H
   * I
   * J
