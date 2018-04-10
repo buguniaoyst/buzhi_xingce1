@@ -9,7 +9,7 @@
   * [A](a.md)
   * [B](b.md)
   * [C](c.md)
-  * D
+  * [D](d.md)
   * E
   * F
   * G
