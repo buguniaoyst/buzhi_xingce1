@@ -7,7 +7,7 @@
 * [易混淆的近义成语辨析](yi-hun-yao-de-jin-yi-cheng-yu-bian-xi.md)
 * 易混淆的近义实词
   * [A](a.md)
-  * B
+  * [B](b.md)
   * C
   * D
   * E
