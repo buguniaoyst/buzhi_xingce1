@@ -32,5 +32,5 @@
   * [如何集中注意力](ru-he-ji-zhong-zhu-yi-li.md)
   * [如何学会扫读](ru-he-xue-hui-sao-du.md)
   * [读什么](du-shi-yao.md)
-  * 如何愿意多写
+  * [如何愿意多写](ru-he-yuan-yi-duo-xie.md)
 
